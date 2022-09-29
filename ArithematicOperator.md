@@ -16,7 +16,7 @@ public class LogicalOperation
     System.out.println("Enter third number:");
     int num3=sc.nextInt();                         //Take input from the user.
      
-    //Using logical operator  AND to verify two constrain.
+    //Using logical operator  AND to verify two constrain .
     
     if((num1<num2)&&(num2==num3))
     {
